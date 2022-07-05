@@ -8,11 +8,8 @@ Used API:
 https://open-meteo.com/
 
 ### 📷 How is this App
-<img src="Screenshot_20220523-050805.png" width="20%"></img>
-<img src="Screenshot_20220523-050752.png" width="20%"></img>
-<img src="Screenshot_20220523-050759.png" width="20%"></img>
-<img src="Screenshot_20220523-050810.png" width="20%"></img>
-
+<img src="Screenshot_20220705-104335.png" width="20%"></img>
+<img src="Screenshot_20220705-104339.png" width="20%"></img>
 
 ### 💻Technology
 - [Kotlin](https://kotlinlang.org/)
