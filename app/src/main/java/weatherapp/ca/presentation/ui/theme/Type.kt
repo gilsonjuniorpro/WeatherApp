@@ -1,4 +1,4 @@
-package weatherapp.ca.ui.theme
+package weatherapp.ca.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

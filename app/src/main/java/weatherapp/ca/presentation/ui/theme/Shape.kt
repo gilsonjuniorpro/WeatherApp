@@ -1,4 +1,4 @@
-package weatherapp.ca.ui.theme
+package weatherapp.ca.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
